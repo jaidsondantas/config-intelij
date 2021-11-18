@@ -1,0 +1,6 @@
+com.chrisrm.idea.MaterialThemeUI
+com.mallowigi
+in.thekalinga.snippet.intellij
+izhangzhihao.rainbow.brackets
+nl.jworks.intellij.bootstrap3
+patrick.kelleter.angular-cli-quick-switch

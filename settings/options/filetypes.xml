@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="supp-administrativo-frontend - Atalho.lnk" type="Native" />
+      <mapping ext="com" type="PLAIN_TEXT" />
+      <mapping pattern="person.ts" type="TypeScript" />
+      <mapping pattern="Paginator" type="TypeScript" />
+      <mapping pattern="paginator" type="TypeScript" />
+      <mapping ext="effects" type="TypeScript" />
+    </extensionMap>
+  </component>
+</application>

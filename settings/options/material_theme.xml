@@ -1,0 +1,8 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="premium" value="true" />
+    <option name="accentColor" value="009688" />
+    <option name="userId" value="-18cb1f05:172b80195b0:-8000" />
+    <option name="version" value="6.5.0.1" />
+  </component>
+</application>
